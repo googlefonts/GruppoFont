@@ -20856,7 +20856,7 @@ unicode = 267;
 {
 glyphname = d;
 kernLeft = d;
-lastChange = "2023-04-26 08:45:18 +0000";
+lastChange = "2023-04-27 12:45:53 +0000";
 layers = (
 {
 anchors = (
@@ -20870,7 +20870,7 @@ pos = (628,383);
 },
 {
 name = top;
-pos = (628,1114);
+pos = (628,766);
 },
 {
 name = topright;
@@ -24540,7 +24540,7 @@ unicode = 289;
 },
 {
 glyphname = h;
-lastChange = "2023-04-21 13:55:28 +0000";
+lastChange = "2023-04-27 12:46:01 +0000";
 layers = (
 {
 anchors = (
@@ -24554,7 +24554,7 @@ pos = (599,557);
 },
 {
 name = top;
-pos = (599,1082);
+pos = (599,766);
 }
 );
 background = {
@@ -24844,7 +24844,7 @@ unicode = 295;
 },
 {
 glyphname = hcircumflex;
-lastChange = "2023-04-21 13:55:28 +0000";
+lastChange = "2023-04-27 12:46:02 +0000";
 layers = (
 {
 background = {
@@ -24914,7 +24914,7 @@ shapes = (
 ref = h;
 },
 {
-pos = (358,316);
+pos = (358,0);
 ref = circumflexcomb;
 }
 );
